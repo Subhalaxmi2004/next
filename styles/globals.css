@@ -5,19 +5,19 @@
     }
     body{
         background: #141416;
-        border: 1px solid white;
+        
     }
     .container {
         height:722px;
         width: 84.5%;
         margin: 0 auto;
-        border: 1px solid red;
+        
         display: flex;
         gap: 1.8%;
     }
 
     .box {
-        border: 1px solid red;
+        
         height:100%;
         transition: width 0.3s;
         width: 12.5%;
@@ -107,8 +107,8 @@ left: 5%;
             padding-top: 5%;
         }
         .title{
-           left:80%;
-           top: 80%;
+           left:75%;
+           top: 75%;
            transform: rotate(0deg);
            
         }

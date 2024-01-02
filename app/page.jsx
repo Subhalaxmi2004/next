@@ -71,7 +71,7 @@ console.log("subha");
 
   return (
     <>
-    <Box sx={{border:"1px solid red",width:"100%",height:"",paddingBottom:"200px",paddingTop:"46px" ,display:"flex",justifyContent:"center",alignItems:"center"}}>
+    <Box sx={{width:"100%",height:"",paddingBottom:"200px",paddingTop:"46px" ,display:"flex",justifyContent:"center",alignItems:"center"}}>
     <Typography sx={{color: "#FFF",
 fontFamily: "Orbitron",
 fontSize: "3.4vw",
