@@ -87,6 +87,7 @@ left: 5%;
  @media  screen and (max-width: 992px){
         .container{
             flex-direction: column;
+            height: 422px;
            
         }
         .box{
