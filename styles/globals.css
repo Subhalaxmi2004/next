@@ -87,7 +87,7 @@ left: 5%;
  @media  screen and (max-width: 992px){
         .container{
             flex-direction: column;
-            height: 422px;
+            height: 322px;
            
         }
         .box{
@@ -109,7 +109,7 @@ left: 5%;
         }
         .title{
            left:75%;
-           top: 75%;
+           top: 51%;
            transform: rotate(0deg);
            
         }
